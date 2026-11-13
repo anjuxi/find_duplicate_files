@@ -59,8 +59,8 @@ Find_duplicate_files/
 把脚本下载下来，或者直接克隆仓库：
 
 ```powershell
-git clone https://github.com/anjuxi/Find_duplicate_files.git
-cd Find_duplicate_files
+git clone https://github.com/anjuxi/find_duplicate_files.git
+cd find_duplicate_files
 python Find_duplicate_files.py . -v
 ```
 
